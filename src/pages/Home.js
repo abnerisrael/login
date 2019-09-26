@@ -27,7 +27,7 @@ export default class Home extends Component {
                     <Typography variant='body2' align="center">
                         <FontAwesomeIcon icon={faGithub} size="6x" />
                         <br/>
-                        <a href="http://github.io" target="_blank">See the code on Github</a>                
+                        <a href="https://github.com/abnerisrael/login.git" target="_blank">See the code on Github</a>                
                     </Typography>
                 </Container>
                 
